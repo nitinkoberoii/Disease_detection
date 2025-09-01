@@ -194,15 +194,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` (if created) for more information.
-
-*Note: A `LICENSE` file is not currently present in this repository. It is highly recommended to add one for open-source projects. You can generate an MIT license file easily.*
-
-## Contact
-
-Codezyman - [GitHub Profile](https://github.com/codezyman)
-
-Project Link: [https://github.com/codezyman/Disease_detection](https://github.com/codezyman/Disease_detection)
