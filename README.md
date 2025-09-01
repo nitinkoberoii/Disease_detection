@@ -4,7 +4,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/codezyman/Disease_detection?style=social)](https://github.com/codezyman/Disease_detection/network/members)
 [![Jupyter Notebook](https://img.shields.io/badge/Language-Jupyter%20Notebook-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Top Contributors](https://img.shields.io/github/contributors/codezyman/Disease_detection)](https://github.com/codezyman/Disease_detection/graphs/contributors)
 
 ## Table of Contents
 
